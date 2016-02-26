@@ -6,7 +6,7 @@ Use the contents of this repository as a guide to launching a for profit project
 
 ### Project Launch Checklist
 
- + [x] Business plan [standard](https://github.com/isysd/standards-templates/blob/master/standards/business_plan.md)
+ + [x] Business plan [standard](https://github.com/isysd/standards-templates/blob/master/standards/business_plan.md) [example](https://github.com/deginner/tigoctm/wiki/Business-Plan)
  + [x] Website [standard](https://github.com/isysd/standards-templates/blob/master/standards/website.md) [template](http://github.com/deginner/website) [example](http://deginner.com)
  + [x] Operational procedures and capital [standard](https://github.com/isysd/standards-templates/blob/master/standards/operational_procedures.md)
  + [x] Project Governance [standard](https://github.com/isysd/standards-templates/blob/master/standards/governance.md)
